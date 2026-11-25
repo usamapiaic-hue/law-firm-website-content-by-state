@@ -1,0 +1,10 @@
+site_name: "Law Firm Website Content by State"
+site_description: "How law firms should adapt website content to the state they practise in, by Legal Web Agency."
+site_author: Legal Web Agency
+site_url: https://law-firm-website-content-by-state.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - "Law Firm Website Content by State": index.md
+markdown_extensions:
+  - tables
